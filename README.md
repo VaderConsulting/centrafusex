@@ -21,6 +21,10 @@ OBD This is a historical working copy from Dave Robinson / VaderConsulting, publ
 
 Open `centrafuse.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly company:** Dave Robinson (Vader)
