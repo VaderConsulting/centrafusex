@@ -1,6 +1,6 @@
 # centrafusex
 
-OBD This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+OBD This is a from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
 
 **Source last updated:** 2009-12-30  
 **Language:** VB.NET  
