@@ -1,15 +1,8 @@
 # centrafusex
 
-OBD This is a from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+VB.NET .NET Framework 3.5 class library (`obd`) for Centrafuse-related OBD work. Open `centrafuse.sln` in Visual Studio 2008.
 
-**Source last updated:** 2009-12-30  
-**Language:** VB.NET  
-**Target:** v3.5  
-**Output:** Library
-
-## What it is
-
-OBD This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+**Source last updated:** 2009-12-30 · **Language:** VB.NET · **Target:** .NET Framework 3.5 · **Output:** class library
 
 ## Solution structure
 
