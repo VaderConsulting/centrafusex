@@ -20,6 +20,7 @@ Open `centrafuse.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `centrafusex`.
 - **Assembly company:** Dave Robinson (Vader)
 - **Assembly copyright:** Copyright © Dave Robinson 2009
 
